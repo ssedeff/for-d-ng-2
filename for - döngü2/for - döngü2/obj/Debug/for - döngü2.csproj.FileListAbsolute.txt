@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for - döngü2\for - döngü2\bin\Debug\for - döngü2.exe.config
+C:\Users\User\source\repos\for - döngü2\for - döngü2\bin\Debug\for - döngü2.exe
+C:\Users\User\source\repos\for - döngü2\for - döngü2\bin\Debug\for - döngü2.pdb
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for___döngü2.Form1.resources
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for___döngü2.Properties.Resources.resources
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.exe
+C:\Users\User\source\repos\for - döngü2\for - döngü2\obj\Debug\for - döngü2.pdb
